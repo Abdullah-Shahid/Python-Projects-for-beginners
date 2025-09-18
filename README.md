@@ -1,12 +1,7 @@
 # Python Projects
 
 This repository contains a collection of Python projects designed to help you learn and practice Python programming. Each project covers different concepts, ranging from beginner to advanced levels.
-
-## Structure
-
-- Each project is organized in its own folder.
-- Projects include a brief description and source code.
-- Some projects may include additional resources or requirements.
+-Each project is organized in its own folder.
 
 ## Getting Started
 
@@ -14,11 +9,8 @@ This repository contains a collection of Python projects designed to help you le
    ```
    git clone https://github.com/yourusername/100-python-projects.git
    ```
-2. Navigate to the project directory:
-   ```
-   cd "Python Projects"
-   ```
-3. Open any project folder to view and run the code.
+   
+2. Open any project folder to view and run the code.
 
 ## Requirements
 
